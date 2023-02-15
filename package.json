@@ -1,0 +1,23 @@
+{
+  "name": "auto_snow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendo63/auto_snow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bendo63/auto_snow/issues"
+  },
+  "homepage": "https://github.com/bendo63/auto_snow#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.1"
+  }
+}
